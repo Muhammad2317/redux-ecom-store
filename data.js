@@ -53,7 +53,7 @@ export const products = [
 
 export const currenciesData = [
   { label: "$", rate: 1 },
-  { label: "e", rate: 0.93 },
+  { label: "€", rate: 0.93 },
   { label: "£", rate: 0.80 },
 ];
 
